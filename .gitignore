@@ -56,3 +56,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Virtualenv
+keras/
+
+# Logs and models
+*.log
+*.h5
